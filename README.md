@@ -53,7 +53,7 @@ cd Aevum
 
 ### Run Your First Program
 
-Create `hello.aevum`:
+Create `hello.av`:
 
 ```aevum
 println("Hello")
@@ -69,7 +69,7 @@ println(x)
 Run it:
 
 ```bash
-java -jar build/libs/aevum-1.0.0.jar hello.aevum
+java -jar build/libs/aevum-1.0.0.jar hello.av
 ```
 
 ## 📖 Examples
