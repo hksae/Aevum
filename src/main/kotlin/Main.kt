@@ -10,7 +10,7 @@ fun main(args: Array<String>) {
     System.setOut(PrintStream(System.out, true, "UTF-8"))
 
     if (args.isEmpty()) {
-        println("Usage: java -jar aevum.jar <source.aevum>")
+        println("Usage: java -jar aevum.jar <source.av>")
         return
     }
 
